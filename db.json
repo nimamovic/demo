@@ -1,5 +1,7 @@
 {
+    "products" : [
     { "id": 1, "name": "Post 1", "price": "Post 1" ,"image": "Post 1"},
     { "id": 2, "name": "Post 2", "price": "Post 1" ,"image": "Post 1"},
     { "id": 3, "name": "Post 3", "price": "Post 1" ,"image": "Post 1"}
+    ]
 }
